@@ -30,11 +30,6 @@
 ---
 
 ### 📊 GitHub Stats & Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pasan003&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasan003&layout=compact&theme=dracula&border_radius=10" height="170" />
-</div>
-
 <br/>
 
 <div align="center">
