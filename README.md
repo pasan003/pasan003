@@ -11,8 +11,6 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,py,cs,nextjs,tailwind,nodejs,mongodb,mysql" />
 </div>
 
-> **Pro Tip:** I replaced the individual <img> tags with **Skill Icons**, which is much cleaner and automatically handles spacing and dark/light mode.
-
 ### 🐍 My Contributions 
 
 <picture>
