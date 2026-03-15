@@ -11,12 +11,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Create output directory
+        run: mkdir -p dist
+
       - name: Generate snake
         uses: Platane/snk@v3
         with:
-          github_user: pasan003
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: pasan003
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.gif
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
