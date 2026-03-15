@@ -7,7 +7,9 @@
 </div>
 
 <div align="center">
-  <h2>🚀 Software Engineer · Web Designer</h2>
+  <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=667EEA&center=true&vCenter=true&width=435&lines=Software+Engineer;Web+Designer;Full+Stack+Developer;UI/UX+Enthusiast" alt="Typing SVG" />
+</div>
   <p><em>Building clean code & beautiful interfaces</em></p>
   
   <p>
