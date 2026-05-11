@@ -51,14 +51,8 @@
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=pasan003&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2" alt="GitHub Stats" height="165" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pasan003&theme=radical&hide_border=true&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=667eea" alt="GitHub Streak" height="165" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasan003&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea" alt="Top Languages" height="165" />
 </div>
 
 <br/>
